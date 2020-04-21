@@ -51,3 +51,4 @@ Render a markdown file into html.
 - `http404` - Render plugin - [link](https://www.npmjs.com/package/@gammastream/scully-plugin-http404)
 - `fouc` - Render plugin - [link](https://www.npmjs.com/package/@notiz/scully-plugin-fouc)
 - `lazyImages` - Render plugin - [link](https://www.npmjs.com/package/@notiz/scully-plugin-lazy-images)
+- `contentful` - Router plugin - [link](https://www.npmjs.com/package/scully-plugin-contentful)
